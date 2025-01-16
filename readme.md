@@ -7,3 +7,7 @@
 
 ## Installation instruction
 Lorem ipsum.......
+
+
+## Feature 1
+...just works...
